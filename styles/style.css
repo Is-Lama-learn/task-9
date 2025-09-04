@@ -45,3 +45,7 @@ p, a, h1 {
   border-radius: 3px;
   border: none;
 }
+
+.link:hover {
+  background-color: #3e5b8d;
+}
