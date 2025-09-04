@@ -41,7 +41,7 @@ p, a, h1 {
   padding: 8px 15px;
   text-decoration: none;
   color: #fff;
-  background-color: #3A5A8F;
+  background-color: #4a6ea9;
   border-radius: 3px;
   border: none;
 }
@@ -49,3 +49,4 @@ p, a, h1 {
 .link:hover {
   background-color: #3e5b8d;
 }
+
